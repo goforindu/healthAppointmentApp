@@ -1,0 +1,46 @@
+Demo Design Description:
+
+Home Page:
+
+The home page features a search bar at the top, 
+allowing users to search for doctors based on
+ their name, specialty, or location.
+
+Below the search bar, there is a list of doctors displayed in a 
+scrollable format.
+
+Each doctor is represented by a card or tile, 
+showcasing their profile picture, name, specialty, 
+and a button to view their availability.
+
+Users can click on the "View Availability" button to proceed to the doctor's availability page.
+Doctor's Availability Page:
+
+The doctor's availability page displays the selected 
+doctor's profile picture, name, and specialty at the top.
+
+The availability is presented in a visual timeline format,
+ divided into time slots (e.g., morning, afternoon, evening).
+
+Each time slot is represented as a clickable element or button.
+
+Booked time slots are marked as unavailable or grayed out,
+ while available time slots are highlighted or 
+ displayed with a different color.
+Users can click on an available time slot to proceed
+ to the appointment confirmation page.
+
+Appointment Confirmation Page:
+
+The appointment confirmation page shows the selected doctor's details 
+(name, specialty) at the top.
+Below that, there is a section where users can review their 
+chosen time slot, along with the date and time.
+The page also includes 
+a form or input fields for the user to provide their 
+name, contact information,
+ and any additional notes or reasons for the appointment.
+
+A "Confirm Appointment" button is displayed at 
+the bottom of the page, which users 
+can click to finalize the appointment.

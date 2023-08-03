@@ -1,0 +1,92 @@
+[
+        {
+          "name": "cardiology",
+          "icon": {
+            "component": "MaterialCommunityIcons",
+            "name": "heart-pulse",
+            "size": 24,
+            "backgroundColor":"#FEEFEF",
+            "color":"#F94D72"
+          }
+        },
+        {
+          "name": "dermatology",
+          "icon": {
+            "component": "MaterialCommunityIcons",
+            "name": "face-woman",
+            "size": 24,
+            "backgroundColor":"#FEEFEF",
+            "color":"#F94D72"
+          }
+        },
+        {
+          "name": "orthopedics",
+          "icon": {
+            "component": "Ionicons",
+            "name": "beaker-outline",
+            "size": 24,
+            "backgroundColor":"#FEEFEF",
+            "color":"#F94D72"
+          }
+        },
+        {
+          "name": "gastroenterology",
+          "icon": {
+            "component": "MaterialCommunityIcons",
+            "name": "stomach",
+            "size": 24,
+            "backgroundColor":"#FEEFEF",
+            "color":"#F94D72"
+          }
+        },
+        {
+          "name": "neurology",
+          "icon": {
+            "component": "Ionicons",
+            "name": "brain",
+            "size": 24,
+            "backgroundColor":"#FEEFEF",
+            "color":"#F94D72"
+          }
+        },
+        {
+          "name": "obstetrics and gynecology",
+          "icon": {
+            "component": "Ionicons",
+            "name": "ribbon",
+            "size": 24,
+            "backgroundColor":"#FEEFEF",
+            "color":"#F94D72"
+          }
+        },
+        {
+          "name": "pediatrics",
+          "icon": {
+            "component": "MaterialCommunityIcons",
+            "name": "baby-face-outline",
+            "size": 24,
+            "backgroundColor":"#FEEFEF",
+            "color":"#F94D72"
+          }
+        },
+        {
+          "name": "internal medicine",
+          "icon": {
+            "component": "MaterialCommunityIcons",
+            "name": "medical-bag",
+            "size": 24,
+            "backgroundColor":"#FEEFEF",
+            "color":"#F94D72"
+          }
+        },
+        {
+          "name": "surgeon",
+          "icon": {
+            "component": "MaterialCommunityIcons",
+            "name": "human",
+            "size": 24,
+            "backgroundColor":"#FEEFEF",
+            "color":"#F94D72"
+          }
+        }
+      ]

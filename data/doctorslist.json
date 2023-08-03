@@ -1,0 +1,152 @@
+{
+  "doctors":[
+    {
+      "id": "AB12",
+      "name": "Dr. John Smith",
+      "specialty": "Cardiology",
+      "years_of_experience": 15,
+      "rating": 4.8,
+      "image_url": "../assets/images/doctor1.png",
+      "qualification": "MD, FACC"
+    },
+    {
+      "id": "CD34",
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Dermatology",
+      "years_of_experience": 10,
+      "rating": 4.5,
+      "image_url": "../assets/images/doctor2.png",
+      "qualification": "MD, FAAD"
+    },
+    {
+      "id": "EF56",
+      "name": "Dr. Michael Brown",
+      "specialty": "Orthopedics",
+      "years_of_experience": 20,
+      "rating": 4.9,
+      "image_url": "../assets/images/doctor3.png",
+      "qualification": "MD, FAAOS"
+    },
+    {
+      "id": "GH78",
+      "name": "Dr. Lisa Davis",
+      "specialty": "Obstetrics and Gynecology",
+      "years_of_experience": 18,
+      "rating": 4.7,
+      "image_url": "../assets/images/doctor2.png",
+      "qualification": "MD, FACOG"
+    },
+    {
+      "id": "IJ90",
+      "name": "Dr. Michael Evans",
+      "specialty": "Neurology",
+      "years_of_experience": 22,
+      "rating": 4.9,
+      "image_url": "../assets/images/doctor.png",
+      "qualification": "MD, FAAN"
+    },
+    {
+      "id": "KL12",
+      "name": "Dr. Jessica Foster",
+      "specialty": "Gastroenterology",
+      "years_of_experience": 10,
+      "rating": 4.5,
+      "image_url": "../assets/images/doctor1.png",
+      "qualification": "MD, FAPA"
+    },
+    {
+      "id": "MN34",
+      "name": "Dr. Christopher Garcia",
+      "specialty": "Cardiology",
+      "years_of_experience": 16,
+      "rating": 4.8,
+      "image_url": "../assets/images/doctor.png",
+      "qualification": "MD, FACC"
+    },
+    {
+      "id": "OP56",
+      "name": "Dr. Samantha Harris",
+      "specialty": "Dermatology",
+      "years_of_experience": 13,
+      "rating": 4.4,
+      "image_url": "../assets/images/doctor.png",
+      "qualification": "MD, FAAD"
+    },
+    {
+      "id": "QR78",
+      "name": "Dr. Thomas Jackson",
+      "specialty": "Orthopedics",
+      "years_of_experience": 19,
+      "rating": 4.9,
+      "image_url": "../assets/images/doctor.png",
+      "qualification": "MD, FAAOS"
+    },
+    {
+      "id": "ST90",
+      "name": "Dr. Emily Johnson",
+      "specialty": "Internal Medicine",
+      "years_of_experience": 9,
+      "rating": 4.2,
+      "image_url": "../assets/images/doctor.png",
+      "qualification": "MD, FACP"
+    },
+    {
+      "id": "UV12",
+      "name": "Dr. Daniel Lee",
+      "specialty": "Pediatrics",
+      "years_of_experience": 7,
+      "rating": 4.1,
+      "image_url": "../assets/images/doctor.png",
+      "qualification": "MD, FAAP"
+    },
+    {
+      "id": "WX34",
+      "name": "Dr. Samantha Lewis",
+      "specialty": "surgeon",
+      "years_of_experience": 14,
+      "rating": 4.7,
+      "image_url": "../assets/images/doctor.png",
+      "qualification": "MD, FACS"
+    },
+    {
+      "id": "YZ56",
+      "name": "Dr. Matthew Martin",
+      "specialty": "Obstetrics and Gynecology",
+      "years_of_experience": 16,
+      "rating": 4.6,
+      "image_url": "../assets/images/doctor.png",
+      "qualification": "MD, FACOG"
+    },
+    {
+      "id": "AB78",
+      "name": "Dr. Olivia Miller",
+      "specialty": "Neurology",
+      "years_of_experience": 20,
+      "rating": 4.9,
+      "image_url": "../assets/images/doctor.png",
+      "qualification": "MD, FAAN"
+    },
+    {
+      "id": "CD90",
+      "name": "Dr. William Moore",
+      "specialty": "Gastroenterology",
+      "years_of_experience": 12,
+      "rating": 4.4,
+      "image_url": "../assets/images/doctor.png",
+      "qualification": "MD, FAPA"
+    },
+    {
+      "id": "EF12",
+      "name": "Dr. Sophia Nelson",
+      "specialty": "Cardiology",
+      "years_of_experience": 18,
+      "rating": 4.8,
+      "image_url": "../assets/images/doctor.png",
+      "qualification": "MD, FACC"
+    }
+  ]
+  
+}
+
+    
+  
